@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Load_Character_Icon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Load_Character_Icon",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

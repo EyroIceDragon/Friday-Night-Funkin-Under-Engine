@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"setScrollFactor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"setScrollFactor",
+  "parent":{
+    "name":"Lua",
+    "path":"folders/脚本/Lua.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

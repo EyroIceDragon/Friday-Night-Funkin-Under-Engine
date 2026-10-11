@@ -1,0 +1,296 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"SetCamZoomInterval",
+						"999",
+						""
+					]
+				]
+			],
+			[
+				2880,
+				[
+					[
+						"Change Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				3240,
+				[
+					[
+						"Change Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				3600,
+				[
+					[
+						"Change Camera Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				3840,
+				[
+					[
+						"Change Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				6720,
+				[
+					[
+						"Change Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				7080,
+				[
+					[
+						"Change Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				7440,
+				[
+					[
+						"Change Camera Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				7680,
+				[
+					[
+						"SetCamZoomInterval",
+						"1",
+						""
+					],
+					[
+						"Change Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				10560,
+				[
+					[
+						"Change Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				10920,
+				[
+					[
+						"Change Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				11280,
+				[
+					[
+						"Change Camera Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				11520,
+				[
+					[
+						"Change Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14400,
+				[
+					[
+						"Change Camera Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				14760,
+				[
+					[
+						"Change Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				15120,
+				[
+					[
+						"Change Camera Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				15360,
+				[
+					[
+						"Change Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43440,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43920,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44280,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44520,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44760,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				44880,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45120,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"SetCamZoomInterval",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				46080,
+				[
+					[
+						"SetCamZoomInterval",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				92160,
+				[
+					[
+						"SetCamZoomInterval",
+						"8",
+						""
+					]
+				]
+			]
+		]
+	}
+}

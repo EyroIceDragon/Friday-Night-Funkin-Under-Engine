@@ -1,0 +1,10 @@
+{
+	"directory": "raeal",
+	"defaultZoom": 0.7,
+	"stageUI": "",
+
+	"boyfriend": [1500, 450],
+	"girlfriend": [900, 450],
+	"opponent": [700, 450],
+	"camera_speed": 1
+}

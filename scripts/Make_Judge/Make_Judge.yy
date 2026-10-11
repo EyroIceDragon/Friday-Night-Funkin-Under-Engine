@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Make_Judge",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Make_Judge",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

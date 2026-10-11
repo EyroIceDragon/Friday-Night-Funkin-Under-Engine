@@ -1,0 +1,32 @@
+{
+	"props": [
+		{
+			"zIndex": -100,
+			"position": [-2500, -1300],
+			"scale": [12000, 7000],
+			"name": "bg",
+			"assetPath": "#FFFFFF",
+			"scroll": [0.0, 0.0]
+		}
+	],
+	"cameraZoom": 0.8,
+	"version": "1.0.0",
+	"characters": {
+    "bf": {
+      "zIndex": 300,
+      "position": [989.5, 885],
+      "cameraOffsets": [0, -100]
+    },
+    "dad": {
+      "zIndex": 200,
+      "position": [335, 855],
+      "cameraOffsets": [150, -100]
+    },
+    "gf": {
+      "zIndex": 100,
+      "cameraOffsets": [0, 0],
+      "position": [751.5, 787]
+    }
+	},
+	"name": "elite kade engine"
+}

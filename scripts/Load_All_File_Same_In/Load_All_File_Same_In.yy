@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Load_All_File_Same_In",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Load_All_File_Same_In",
+  "parent":{
+    "name":"File",
+    "path":"folders/脚本/File.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

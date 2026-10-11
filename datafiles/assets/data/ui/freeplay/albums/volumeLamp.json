@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"name": "volumeLamp",
+	"artists": ["Felx Lamp"],
+	"albumArtAsset": "freeplay/albumRoll/volumeLamp",
+	"albumTitleAsset": "freeplay/albumRoll/volumeLamp-text",
+	"albumOSTName": "LAMP OST",
+	"albumTitleOffsets": [-20, 0]
+}

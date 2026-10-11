@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Draw_Arrow_Press",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Draw_Arrow_Press",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

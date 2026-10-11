@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Draw_Arrow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Draw_Arrow",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

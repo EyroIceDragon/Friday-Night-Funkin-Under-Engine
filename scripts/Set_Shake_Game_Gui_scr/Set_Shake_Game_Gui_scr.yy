@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Set_Shake_Game_Gui_scr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Set_Shake_Game_Gui_scr",
+  "parent":{
+    "name":"脚本",
+    "path":"folders/脚本.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

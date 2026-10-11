@@ -1,0 +1,32 @@
+{
+ "version": "1.0.2",
+ "name": "bodriofondo",
+ "props": [
+  {
+   "assetPath": "bodriofondo/descarga",
+   "atlasSettings": null,
+   "name": "bodriofondo",
+   "position": [-602, -314],
+   "scale": 1.4,
+   "startingAnimation": "",
+   "zIndex": 1
+  }
+ ],
+ "characters": {
+  "bf": {
+   "cameraOffsets": [-100, -100],
+   "position": [1150, 950],
+   "zIndex": 300
+  },
+  "dad": {
+   "cameraOffsets": [0, -100],
+   "position": [500, 1150],
+   "zIndex": 200
+  },
+  "gf": {
+   "cameraOffsets": [0, 0],
+   "position": [708, 786],
+   "zIndex": 100
+  }
+ }
+}

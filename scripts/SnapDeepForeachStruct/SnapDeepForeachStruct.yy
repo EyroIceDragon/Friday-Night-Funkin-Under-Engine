@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SnapDeepForeachStruct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SnapDeepForeachStruct",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/扩展/SNAP/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

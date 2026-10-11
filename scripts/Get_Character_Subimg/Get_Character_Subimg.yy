@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Get_Character_Subimg",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Get_Character_Subimg",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

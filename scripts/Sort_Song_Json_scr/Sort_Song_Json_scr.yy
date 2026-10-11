@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Sort_Song_Json_scr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sort_Song_Json_scr",
+  "parent":{
+    "name":"Song_json",
+    "path":"folders/脚本/Song_json.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

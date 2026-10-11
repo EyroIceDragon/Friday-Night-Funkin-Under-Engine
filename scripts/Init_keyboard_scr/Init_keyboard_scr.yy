@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Init_keyboard_scr",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Init_keyboard_scr",
+  "parent":{
+    "name":"脚本",
+    "path":"folders/脚本.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

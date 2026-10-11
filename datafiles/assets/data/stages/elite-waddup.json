@@ -1,0 +1,53 @@
+{
+	"props": [
+		{
+			"zIndex": -100,
+			"position": [-800, -200],
+			"name": "bg",
+			"assetPath": "elite/waddup/bg"
+		},
+		{
+			"zIndex": 1000,
+			"position": [-1120, -560],
+			"name": "overlay",
+			"assetPath": "elite/waddup/overlay",
+			"blend": "add"
+		},
+		{
+			"name": "ufo",
+			"assetPath": "elite/waddup/ufo",
+			"zIndex": 0,
+			"position": [260, 250],
+			"animations": [
+				{
+					"name": "idle",
+					"prefix": "ufo speaker",
+					"looped": true
+				}
+			],
+			"startingAnimation": "idle"
+		}
+	],
+	"cameraZoom": 0.6,
+	"version": "1.0.0",
+	"characters": {
+		"bf": {
+			"zIndex": 300,
+			"position": [1400, 895],
+			"cameraOffsets": [-100, -100]
+		},
+		"dad": {
+			"zIndex": 200,
+			"position": [100, 885],
+			"cameraOffsets": [150, -100]
+		},
+		"gf": {
+			"zIndex": 100,
+			"cameraOffsets": [0, 100],
+			"position": [751.5, 787],
+			"scroll": [0.8, 0.8],
+			"alpha": 0.0
+		}
+	},
+	"name": "elite stage"
+}

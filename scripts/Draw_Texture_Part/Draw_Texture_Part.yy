@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Draw_Texture_Part",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Draw_Texture_Part",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

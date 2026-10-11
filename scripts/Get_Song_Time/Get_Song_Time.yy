@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Get_Song_Time",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Get_Song_Time",
+  "parent":{
+    "name":"Song_json",
+    "path":"folders/脚本/Song_json.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

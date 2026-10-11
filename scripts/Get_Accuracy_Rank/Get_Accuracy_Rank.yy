@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Get_Accuracy_Rank",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Get_Accuracy_Rank",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

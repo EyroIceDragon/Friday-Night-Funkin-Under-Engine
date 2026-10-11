@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Json_Load",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Json_Load",
+  "parent":{
+    "name":"File",
+    "path":"folders/脚本/File.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

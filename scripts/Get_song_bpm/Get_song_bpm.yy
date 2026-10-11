@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Get_song_bpm",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Get_song_bpm",
+  "parent":{
+    "name":"Song_json",
+    "path":"folders/脚本/Song_json.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

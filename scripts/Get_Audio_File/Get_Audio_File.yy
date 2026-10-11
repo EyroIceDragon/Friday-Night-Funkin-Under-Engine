@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Get_Audio_File",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Get_Audio_File",
+  "parent":{
+    "name":"File",
+    "path":"folders/脚本/File.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

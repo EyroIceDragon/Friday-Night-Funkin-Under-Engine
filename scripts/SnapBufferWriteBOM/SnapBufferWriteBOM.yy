@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SnapBufferWriteBOM",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SnapBufferWriteBOM",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/扩展/SNAP/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

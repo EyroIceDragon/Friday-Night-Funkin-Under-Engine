@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Get_Song_Music_Beat",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Get_Song_Music_Beat",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/脚本/Audio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

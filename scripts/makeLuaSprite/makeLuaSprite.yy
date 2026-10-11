@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"makeLuaSprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"makeLuaSprite",
+  "parent":{
+    "name":"Lua",
+    "path":"folders/脚本/Lua.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

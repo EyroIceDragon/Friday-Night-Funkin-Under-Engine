@@ -1,0 +1,56 @@
+{
+	"version": "1.0.0",
+	"name": "teeth elite",
+	"cameraZoom": 0.48,
+	"props": [
+		{
+		"zIndex": 10,
+		"position": [-517, -226],
+		"scale": [1, 1],
+		"animType": "sparrow",
+		"name": "bg",
+		"assetPath": "fml/FONDO",
+		"scroll": [1, 1]
+		},
+		{
+		"zIndex": 400,
+		"position": [-517, -226],
+		"scale": [1, 1],
+		"animType": "sparrow",
+		"name": "bg",
+		"assetPath": "fml/luz",
+		"scroll": [1, 1]
+		},
+		{
+		"zIndex": 199,
+		"position": [-1574, -85],
+		"scale": [1, 1],
+		"animType": "sparrow",
+		"name": "trikiwalk",
+		"assetPath": "fml/triki_walk",
+		"isPixel": false,
+		"animations": [
+			{ "name": "walk", "prefix": "triki walk idle0", "looped": true, "frameRate": 12}
+		],
+		"startingAnimation": "walk",
+		"scroll": [1, 1]
+		}
+	],
+	"characters": {
+		"bf": {
+			"zIndex": 300,
+			"position": [1499.5, 1069],
+			"cameraOffsets": [50, 50]
+		},
+		"dad": {
+			"zIndex": 200,
+			"position": [297, 1058],
+			"cameraOffsets": [50, 50]
+		},
+		"gf": {
+			"zIndex": 100,
+			"cameraOffsets": [50, 220],
+			"position": [827, 558]
+		}
+	}
+}

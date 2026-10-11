@@ -1,0 +1,49 @@
+{
+	"props": [
+		{
+			"zIndex": -100,
+			"position": [-1200, -800],
+			"scale": [4000, 3000],
+			"name": "bg",
+			"assetPath": "#FFFFFF",
+			"scroll": [0.0, 0.0]
+		},
+		{
+			"name": "blas",
+			"assetPath": "elite/garch/blas",
+			"zIndex": 20,
+			"animType": "animateatlas",
+			"position": [1200, 300],
+			"scale": [0.58, 0.58],
+			"scroll": [0.7, 0.7],
+			"animations": [
+				{
+					"name": "idle",
+					"prefix": "Idle",
+					"looped": true
+				}
+			],
+			"startingAnimation": "idle"
+		}
+	],
+	"cameraZoom": 0.45,
+	"version": "1.0.0",
+	"characters": {
+		"bf": {
+			"zIndex": 300,
+			"position": [1900, 885],
+			"cameraOffsets": [-600, -100]
+		},
+		"dad": {
+			"zIndex": 200,
+			"position": [200, 885],
+			"cameraOffsets": [600, -100]
+		},
+		"gf": {
+			"zIndex": 100,
+			"cameraOffsets": [100, 0],
+			"position": [1000, 787]
+		}
+	},
+	"name": "garch"
+}

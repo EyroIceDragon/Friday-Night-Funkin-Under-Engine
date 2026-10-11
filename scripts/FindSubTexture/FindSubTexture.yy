@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"FindSubTexture",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"FindSubTexture",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

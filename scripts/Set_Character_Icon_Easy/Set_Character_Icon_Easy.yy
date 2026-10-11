@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Set_Character_Icon_Easy",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Set_Character_Icon_Easy",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

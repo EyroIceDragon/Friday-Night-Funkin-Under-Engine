@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Add_song_music",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Add_song_music",
+  "parent":{
+    "name":"Song_json",
+    "path":"folders/脚本/Song_json.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

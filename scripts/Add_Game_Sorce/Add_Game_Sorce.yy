@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Add_Game_Sorce",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Add_Game_Sorce",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

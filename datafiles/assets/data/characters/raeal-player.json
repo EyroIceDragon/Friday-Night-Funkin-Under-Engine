@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-143,
+				-10
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "raeal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "raeal down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "raeal up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-67,
+				57
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hey",
+			"indices": [],
+			"name": "raeal pose"
+		},
+		{
+			"offsets": [
+				149,
+				10
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "raeal right"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "raeal left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/raeal",
+	"position": [
+		-190,
+		-90
+	],
+	"healthicon": "raeal",
+	"flip_x": false,
+	"healthbar_colors": [
+		53,
+		64,
+		181
+	],
+	"camera_position": [
+		130,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

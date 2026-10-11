@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Load_Xml_File",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Load_Xml_File",
+  "parent":{
+    "name":"File",
+    "path":"folders/脚本/File.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="fgCrowd2.png" width="1205" height="1801">
+	<SubTexture name="fg_crowd0000" x="604" y="1208" width="600" height="592" frameX="-139" frameY="-67" frameWidth="1921" frameHeight="720"/>
+	<SubTexture name="fg_crowd0001" x="1" y="1206" width="600" height="594" frameX="-140" frameY="-65" frameWidth="1921" frameHeight="720"/>
+	<SubTexture name="fg_crowd0002" x="607" y="606" width="593" height="599" frameX="-142" frameY="-61" frameWidth="1921" frameHeight="720"/>
+	<SubTexture name="fg_crowd0003" x="609" y="1" width="595" height="602" frameX="-135" frameY="-58" frameWidth="1921" frameHeight="720"/>
+	<SubTexture name="fg_crowd0004" x="1" y="604" width="603" height="599" frameX="-126" frameY="-61" frameWidth="1921" frameHeight="720"/>
+	<SubTexture name="fg_crowd0005" x="1" y="1" width="605" height="600" frameX="-124" frameY="-60" frameWidth="1921" frameHeight="720"/>
+</TextureAtlas>

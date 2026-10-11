@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Create_Arrow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Create_Arrow",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

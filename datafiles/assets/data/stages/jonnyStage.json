@@ -1,0 +1,28 @@
+{
+    "name": "jonnyStage",
+    "cameraZoom": 0.7,
+    "version": "1.0.0",
+
+    "characters": {
+        "bf": 
+        {
+            "zIndex": 8,
+            "position": [0, 0],
+            "cameraOffsets": [-200, -100]
+        },
+        "dad": 
+        {
+            "zIndex": 7,
+            "position": [-500, 0],
+            "cameraOffsets": [100, -100]
+        },
+        "gf": 
+        {
+            "zIndex": 6,
+            "position": [-150, 30],
+            "cameraOffsets": [0, -100],
+            "scroll": [0.9, 0.9]
+        }
+    },
+    "props": []
+}

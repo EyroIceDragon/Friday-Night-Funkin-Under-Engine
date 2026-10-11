@@ -1,0 +1,33 @@
+{
+	"props": [
+		{
+			"zIndex": -100,
+			"position": [-1200, -800],
+			"scale": [4000, 3000],
+			"name": "bg",
+			"assetPath": "#FFFFFF",
+			"scroll": [0.0, 0.0]
+		}
+	],
+	"cameraZoom": 0.6,
+	"version": "1.0.0",
+	"characters": {
+		"bf": {
+			"zIndex": 300,
+			"position": [1300, 885],
+			"cameraOffsets": [-100, -100]
+		},
+		"dad": {
+			"zIndex": 200,
+			"position": [165, 885],
+			"cameraOffsets": [150, -100]
+		},
+		"gf": {
+			"zIndex": 100,
+			"cameraOffsets": [0, 0],
+			"position": [751.5, 787],
+			"scroll": [0.8, 0.8]
+		}
+	},
+	"name": "elite stage"
+}

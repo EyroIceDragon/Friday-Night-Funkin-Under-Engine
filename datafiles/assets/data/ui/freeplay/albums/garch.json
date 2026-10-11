@@ -1,0 +1,9 @@
+{
+	"version": "1.0.0",
+	"name": "#WeGood",
+	"artists": ["atsigned"],
+	"albumArtAsset": "freeplay/albumRoll/garch",
+	"albumTitleAsset": "freeplay/albumRoll/4eva-text",
+	"albumOSTName": "4EVA OST",
+	"albumTitleOffsets": [-30, 0]
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Set_Beat_Soure_Bar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Set_Beat_Soure_Bar",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

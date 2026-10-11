@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Load_External_Gml",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Load_External_Gml",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

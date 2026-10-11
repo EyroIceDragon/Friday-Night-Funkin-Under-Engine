@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Get_Song_Music_File_Path",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Get_Song_Music_File_Path",
+  "parent":{
+    "name":"File",
+    "path":"folders/脚本/File.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

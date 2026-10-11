@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Add_Judge_Texture",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Add_Judge_Texture",
+  "parent":{
+    "name":"Texture",
+    "path":"folders/脚本/Texture.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

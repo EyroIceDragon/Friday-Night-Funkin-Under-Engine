@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SnapFromCSV",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SnapFromCSV",
+  "parent":{
+    "name":"CSV",
+    "path":"folders/扩展/SNAP/CSV.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Register_All_Gml_Functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Register_All_Gml_Functions",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

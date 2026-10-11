@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Create_Judge_Obj",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Create_Judge_Obj",
+  "parent":{
+    "name":"X",
+    "path":"folders/脚本/X.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
